@@ -41,7 +41,7 @@ class App extends React.Component {
                 <div class="media-body">
                   <h5 class="mt-0">{employee.name}</h5>
                   <h6 class="mt-0">{employee.Unit}</h6>
-                  <h6 class="mt-0">{employee.Position}</h6>
+                 
 
                 </div>
               </div>
